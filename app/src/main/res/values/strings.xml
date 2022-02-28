@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hash</string>
+    <string name="maininput">Input</string>
+    <string name="mainoutput">Output</string>
+    <string name="convert">Convert</string>
+    <string name="splashtxt">Welcome to Hash!</string>
+    <string name="algo">Algorithm: </string>
+    <string-array name="hash_types">
+        <item> </item>
+        <item>MD5</item>
+        <item>SHA-1</item>
+        <item>SHA-256</item>
+        <item>SHA-384</item>
+        <item>SHA-512</item>
+    </string-array>
+    <string name="about">Long Press to reset values.\nLong press on the output text to copy the text.\n \n\n\n\nVian.Devs©</string>
+</resources>
